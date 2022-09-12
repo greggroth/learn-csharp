@@ -1,0 +1,15 @@
+/workspaces/learn-csharp/chapter2/bin/Debug/net6.0/chapter2
+/workspaces/learn-csharp/chapter2/bin/Debug/net6.0/chapter2.deps.json
+/workspaces/learn-csharp/chapter2/bin/Debug/net6.0/chapter2.runtimeconfig.json
+/workspaces/learn-csharp/chapter2/bin/Debug/net6.0/chapter2.dll
+/workspaces/learn-csharp/chapter2/bin/Debug/net6.0/chapter2.pdb
+/workspaces/learn-csharp/chapter2/obj/Debug/net6.0/chapter2.csproj.AssemblyReference.cache
+/workspaces/learn-csharp/chapter2/obj/Debug/net6.0/chapter2.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/learn-csharp/chapter2/obj/Debug/net6.0/chapter2.AssemblyInfoInputs.cache
+/workspaces/learn-csharp/chapter2/obj/Debug/net6.0/chapter2.AssemblyInfo.cs
+/workspaces/learn-csharp/chapter2/obj/Debug/net6.0/chapter2.csproj.CoreCompileInputs.cache
+/workspaces/learn-csharp/chapter2/obj/Debug/net6.0/chapter2.dll
+/workspaces/learn-csharp/chapter2/obj/Debug/net6.0/refint/chapter2.dll
+/workspaces/learn-csharp/chapter2/obj/Debug/net6.0/chapter2.pdb
+/workspaces/learn-csharp/chapter2/obj/Debug/net6.0/chapter2.genruntimeconfig.cache
+/workspaces/learn-csharp/chapter2/obj/Debug/net6.0/ref/chapter2.dll
